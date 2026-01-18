@@ -1,7 +1,4 @@
 This is a simple web application that evaluates skincare ingredient lists and flags potential irritants.
-<<<<<<< HEAD
 The user pastes the ingredient list of a skincare product. The ingredients are then parsed into individual components and verified against a small set of common irritants. The app determines whether the product is safe, unsafe, or if the user needs to exercise caution when using it.
-=======
 
 This should not be used as a substitute for professional medical advice.
->>>>>>> 1b9a946 (Updating with changes made to skin care ingredients check application)
