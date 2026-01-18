@@ -1,8 +1,4 @@
 flask==3.0.0
 requests==2.31.0
-<<<<<<< HEAD
 beautifulsoup4==4.12.3
 gunicorn==21.2.0
-=======
-beautifulsoup4==4.12.3
->>>>>>> 1b9a946 (Updating with changes made to skin care ingredients check application)
